@@ -1,0 +1,30 @@
+
+# PlanAhead Generated IO constraints 
+
+NET "enable_out[2]" IOSTANDARD = LVCMOS33;
+NET "enable_out[1]" IOSTANDARD = LVCMOS33;
+NET "enable_out[0]" IOSTANDARD = LVCMOS33;
+NET "segment_out[7]" IOSTANDARD = LVCMOS33;
+NET "segment_out[6]" IOSTANDARD = LVCMOS33;
+NET "segment_out[5]" IOSTANDARD = LVCMOS33;
+NET "segment_out[4]" IOSTANDARD = LVCMOS33;
+NET "segment_out[3]" IOSTANDARD = LVCMOS33;
+NET "segment_out[2]" IOSTANDARD = LVCMOS33;
+NET "segment_out[1]" IOSTANDARD = LVCMOS33;
+NET "segment_out[0]" IOSTANDARD = LVCMOS33;
+NET "clock" IOSTANDARD = LVCMOS33;
+
+# PlanAhead Generated physical constraints 
+
+NET "clock" LOC = P129;
+NET "enable_out[2]" LOC = P124;
+NET "enable_out[1]" LOC = P121;
+NET "enable_out[0]" LOC = P120;
+NET "segment_out[7]" LOC = P117;
+NET "segment_out[6]" LOC = P116;
+NET "segment_out[5]" LOC = P115;
+NET "segment_out[4]" LOC = P113;
+NET "segment_out[3]" LOC = P112;
+NET "segment_out[2]" LOC = P111;
+NET "segment_out[1]" LOC = P110;
+NET "segment_out[0]" LOC = P114;
